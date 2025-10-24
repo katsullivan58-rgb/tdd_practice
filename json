@@ -1,0 +1,7 @@
+[
+  { "name": "Doll", "price": 29.99, "count": 10 },
+  { "name": "Unicorn", "price": 19.50, "count": 12 },
+  { "name": "Puzzle", "price": 14.99, "count": 8 },
+  { "name": "Teddy", "price": 24.75, "count": 15 },
+  { "name": "Playset", "price": 49.99, "count": 5 }
+]
